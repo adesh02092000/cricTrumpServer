@@ -1,0 +1,572 @@
+[
+  {
+    "id": 576,
+    "name": "Rohit Sharma",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 1446,
+    "name": "Shikhar Dhawan",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 11808,
+    "name": "Shubman Gill",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 9428,
+    "name": "Shreyas Iyer",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 1447,
+    "name": "Ajinkya Rahane",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 7915,
+    "name": "Suryakumar Yadav",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 1413,
+    "name": "Virat Kohli",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 8733,
+    "name": "KL Rahul",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 10744,
+    "name": "Rishabh Pant",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 265,
+    "name": "MS Dhoni",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 1643,
+    "name": "Aaron Finch",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 2250,
+    "name": "Steve Smith",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 1739,
+    "name": "David Warner",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 7662,
+    "name": "Glenn Maxwell",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 8989,
+    "name": "Marcus Stoinis",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 624,
+    "name": "Eoin Morgan",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 8019,
+    "name": "Joe Root",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 6534,
+    "name": "Jason Roy",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 10045,
+    "name": "Liam Livingstone",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 6660,
+    "name": "David Malan",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 6507,
+    "name": "Jonny Bairstow",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 2258,
+    "name": "Jos Buttler",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 7990,
+    "name": "Sam Billings",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 6692,
+    "name": "Moeen Ali",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 6557,
+    "name": "Ben Stokes",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 9522,
+    "name": "Tom Curran",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 10420,
+    "name": "Sam Curran",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 1457,
+    "name": "Martin Guptil",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 521,
+    "name": "Ross Taylor",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 6326,
+    "name": "Kane Williamson",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 8983,
+    "name": "James Neesham",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 10100,
+    "name": "Mitchell Santner",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 10694,
+    "name": "Henry Nicholls",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 8216,
+    "name": "Tom Latham",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 10717,
+    "name": "Tom Blundell",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 10863,
+    "name": "Fakhar Zaman",
+    "country": "🇵🇰"
+  },
+  {
+    "id": 8364,
+    "name": "Imam-ul-Haq",
+    "country": "🇵🇰"
+  },
+  {
+    "id": 8359,
+    "name": "Babar Azam",
+    "country": "🇵🇰"
+  },
+  {
+    "id": 881,
+    "name": "Sarfaraz Ahmed",
+    "country": "🇵🇰"
+  },
+  {
+    "id": 6243,
+    "name": "Lahiru Thirimanne",
+    "country": "🇱🇰"
+  },
+  {
+    "id": 8116,
+    "name": "Kusal Perera",
+    "country": "🇱🇰"
+  },
+  {
+    "id": 9494,
+    "name": "Kusal Mendis",
+    "country": "🇱🇰"
+  },
+  {
+    "id": 1610,
+    "name": "Darren Bravo",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 247,
+    "name": "Chris Gayle",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 8579,
+    "name": "Evin Lewis",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 9789,
+    "name": "Shimron Hetmyer",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 10384,
+    "name": "Shai Hope",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 9406,
+    "name": "Nicholas Pooran",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 7825,
+    "name": "Faf Du Plessis",
+    "country": "🇿🇦"
+  },
+  {
+    "id": 6349,
+    "name": "David Miller",
+    "country": "🇿🇦"
+  },
+  {
+    "id": 9582,
+    "name": "Aiden Markram",
+    "country": "🇿🇦"
+  },
+  {
+    "id": 9554,
+    "name": "RVD Dussen",
+    "country": "🇿🇦"
+  },
+  {
+    "id": 8520,
+    "name": "Quinton de Kock",
+    "country": "🇿🇦"
+  },
+  {
+    "id": 8583,
+    "name": "Temba Bavuma",
+    "country": "🇿🇦"
+  },
+  {
+    "id": 3004,
+    "name": "Asghar Afghan",
+    "country": "🇦🇫"
+  },
+  {
+    "id": 3014,
+    "name": "Mohammad Shahzad",
+    "country": "🇦🇫"
+  },
+  {
+    "id": 612,
+    "name": "Tamim Iqbal",
+    "country": "🇧🇩"
+  },
+  {
+    "id": 8233,
+    "name": "Soumya Sarkar",
+    "country": "🇧🇩"
+  },
+  {
+    "id": 394,
+    "name": "Mushfiqur Rahim",
+    "country": "🇧🇩"
+  },
+  {
+    "id": 8540,
+    "name": "Litton Das",
+    "country": "🇧🇩"
+  },
+  {
+    "id": 1121,
+    "name": "Mahmudulla",
+    "country": "🇧🇩"
+  },
+  {
+    "id": 544,
+    "name": "Shakib Al Hasan",
+    "country": "🇧🇩"
+  },
+  {
+    "id": 11081,
+    "name": "Mehidy Hasan",
+    "country": "🇧🇩"
+  },
+  {
+    "id": 13217,
+    "name": "Arshdeep Singh",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 7909,
+    "name": "Md Shami",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 9311,
+    "name": "Jasprit Bumrah",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 8292,
+    "name": "Kuldeep Yadav",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 7910,
+    "name": "Yuzi Chahal",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 8683,
+    "name": "Shardul Thakur",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 1858,
+    "name": "Umesh Yadav",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 10808,
+    "name": "Md Siraj",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 1593,
+    "name": "Ravi Ashwin",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 8095,
+    "name": "Pat Cummins",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 7710,
+    "name": "Mitchell Starc",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 6258,
+    "name": "Josh Hazelwood",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 8642,
+    "name": "Adam Zampa",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 9617,
+    "name": "Andrew Tye",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 1742,
+    "name": "Adil Rashid",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 11540,
+    "name": "Jofra Archer",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 8383,
+    "name": "Mark Wood",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 6532,
+    "name": "Chris Jordan",
+    "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "id": 10738,
+    "name": "Rashid Khan",
+    "country": "🇦🇫"
+  },
+  {
+    "id": 12071,
+    "name": "Mujeeb Rahman",
+    "country": "🇦🇫"
+  },
+  {
+    "id": 12160,
+    "name": "Shaheen Afridi",
+    "country": "🇵🇰"
+  },
+  {
+    "id": 1051,
+    "name": "Wahab Riaz",
+    "country": "🇵🇰"
+  },
+  {
+    "id": 11320,
+    "name": "Hasan Ali",
+    "country": "🇵🇰"
+  },
+  {
+    "id": 1785,
+    "name": "Suranga Lakmal",
+    "country": "🇱🇰"
+  },
+  {
+    "id": 111,
+    "name": "Lasith Malinga",
+    "country": "🇱🇰"
+  },
+  {
+    "id": 6730,
+    "name": "Nuwan Pradeep",
+    "country": "🇱🇰"
+  },
+  {
+    "id": 323,
+    "name": "Mashrafe Mortaza",
+    "country": "🇧🇩"
+  },
+  {
+    "id": 1736,
+    "name": "Rubel Hossain",
+    "country": "🇧🇩"
+  },
+  {
+    "id": 9863,
+    "name": "Mustafizur Rahman",
+    "country": "🇧🇩"
+  },
+  {
+    "id": 9395,
+    "name": "Sheldon Cottrell",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 7736,
+    "name": "Andre Russell",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 8313,
+    "name": "Jason holder",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 7736,
+    "name": "Andre Russell",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 8110,
+    "name": "Carlos Brathwaite",
+    "country": "🇧🇸"
+  },
+  {
+    "id": 6667,
+    "name": "Imran Tahir",
+    "country": "🇿🇦"
+  },
+  {
+    "id": 9585,
+    "name": "Kagiso Rabada",
+    "country": "🇿🇦"
+  },
+  {
+    "id": 10173,
+    "name": "Tabraiz Shamsi",
+    "country": "🇿🇦"
+  },
+  {
+    "id": 8117,
+    "name": "Trent Boult",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 1057,
+    "name": "Tim Southee",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 8561,
+    "name": "Ish Sodhi",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 10692,
+    "name": "Lockie Ferguson",
+    "country": "🇳🇿"
+  },
+  {
+    "id": 9647,
+    "name": "Hardik Pandya",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 587,
+    "name": "Ravindra Jadeja",
+    "country": "🇮🇳"
+  },
+  {
+    "id": 3007,
+    "name": "Md Nabi",
+    "country": "🇦🇫"
+  },
+  {
+    "id": 360,
+    "name": "Md Hafeez",
+    "country": "🇵🇰"
+  },
+  {
+    "id": 33,
+    "name": "Shoaib Malik",
+    "country": "🇵🇰"
+  },
+  {
+    "id": 11186,
+    "name": "Shadab Khan",
+    "country": "🇵🇰"
+  },
+  {
+    "id": 8497,
+    "name": "Travis Head",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 12225,
+    "name": "Cameron Green",
+    "country": "🇦🇺"
+  },
+  {
+    "id": 1629,
+    "name": "Angelo Mathews",
+    "country": "🇱🇰"
+  },
+  {
+    "id": 2281,
+    "name": "Thisara Perera",
+    "country": "🇱🇰"
+  }
+]
